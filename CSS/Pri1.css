@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+div
+{
+
+	float:left;
+	margin-top:10%;
+}
+@keyframes mih
+{
+	0%
+	{
+		transform:translate(30px,-30px);
+	}
+	50%
+	{
+		transform:translate(50px,-60px);
+	}
+	100%
+	{
+		transform:translate(30px,-30px);
+}
+}
+img
+{
+	animation-name:mih;
+	animation-duration:3s;
+	animation-delay:0.5s;
+	animation-play-state:paused;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+	width:100px;
+	height:100px;
+
+}
+img:hover
+{
+	animation-play-state:running;
+}

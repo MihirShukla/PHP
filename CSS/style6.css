@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:#999;
+}
+div
+{
+	float:left;
+	margin-left:15%;
+	margin-top:12%;
+}
+.row
+{
+	width:130px;
+	height:80px;
+	border-radius:50%;
+}
+.first
+{
+	width:200px;
+	color:#009;
+	padding-top:1%;
+	text-align:justify;
+}
+.qq
+{	
+	background-color:#C09;
+}
+/*.ww
+{
+	margin-top:1%;
+}*/
+@keyframes mih
+{
+	0%
+	{
+		transform:rotate(0deg);
+	}
+	50%
+	{
+		transform:rotatey(180deg);
+	}
+	100%
+	{
+		transform:rotate(0deg);
+	}
+}
+img:hover
+{
+	animation-name:mih;
+	animation-play-state:running;
+	animation-duration:3s;
+	animation-delay:0.5s;
+	animation-iteration-count:infinite;
+	background-color:#0C0;
+}
+img
+{
+	background-color:#0C0;
+	animation-play-state:paused;
+}

@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	padding:0px;
+	margin:0px;
+}
+input
+{
+	border:none;
+	border-bottom:solid 1px #333333;
+}
+h1
+{
+	color:#00F;
+	text-align:center;
+}
+.First
+{
+	float:left;
+	padding-left:36%;
+	padding-top:15px;
+}
+.Utd
+{
+	margin:10px;
+}
+.Utd input
+{
+	padding-left:0px;
+	margin:10px;
+}
+.Utd1 input
+{
+	
+	margin:10px;
+}
+.First1
+{
+	padding:30px;
+	margin:10px;
+}
+.Utd2
+{
+	
+	margin:10px;
+}
+.em
+{
+	
+	margin:10px;
+}
+.Utd3
+{
+	padding-left:40px;
+	margin:10px;
+}
+.em1
+{
+	padding-left:5px;
+	margin:10px;
+}
+.Utd4
+{
+	padding-left:40px;
+	margin:10px;
+}
+.em2
+{
+	padding-left:5px;
+	margin:10px;
+}
+.em3
+{
+	padding-left:50px;
+	margin:10px;
+	
+}
+.em4
+{
+	margin:10px;
+}

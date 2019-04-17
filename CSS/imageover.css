@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	padding:0px;
+	margin:0px;
+}
+.First
+{
+	width:100%;
+	height:400px;
+	background-color:#0F0;
+}
+.First img
+{
+	padding-top:50px;
+	padding-left:240px;
+	float:left;
+	width:350px;
+	height:250px;
+}
+.Sec
+{
+	color:#FF0;
+	padding-top:120px;
+	transform:translateX(-120px);
+	text-align:justify;
+
+}
+.Third{
+	width:100%;
+	height:400px;
+	background-color:#006;
+}
+.Third img
+{
+	padding-top:50px;
+	padding-right:240px;
+	float:right;
+	width:350px;
+	height:250px;
+	
+}
+.Four
+{
+	color:#FCC;
+	padding-top:120px;
+	transform:translateX(120px);
+	text-align:justify;
+}
+
+	
+	

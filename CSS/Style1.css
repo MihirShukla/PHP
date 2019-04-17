@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	padding:0px;
+	margin:0px;
+}
+div
+{
+	float:left;
+	background-color:#F9C;
+}
+.First
+{
+	float:left;
+	background-color:#000;
+	color:#FFF;
+	width:100%
+}
+.First img
+{
+	float:left;
+	width:200px;
+	height:100px;
+}
+.Head
+{
+	padding-top:30px;
+	color:#FFF;
+}
+.Row
+{
+	float:right;
+	background-color:#000;
+	color:#FF0;
+	padding-right:20px;
+	padding-bottom:40px;
+	
+}
+
+.Row a
+{
+	color:#FF0;
+	text-decoration:none;
+	
+}
+.W:hover
+{
+	color:#FF0;
+	background-color:#0F0;
+	transition:all 1s ease-in;
+}
+.Q:hover
+{
+	color:#FF0;
+	background-color:#0F0;
+	transition:all 1s ease-in;
+}
+
+#F
+{
+	float:right;
+}
+.Second
+{
+
+	background-color:#FFF;
+	width:100%;
+	
+}
+.Second ul
+{
+	list-style-type:none;	
+}
+.Second ul li
+{
+	display:inline-block;
+	padding:10px 0px;
+	padding:15px;
+	
+}
+.Second ul li a
+{
+	display:inline;
+	text-decoration:none;
+	color:#F00;
+}
+.Second ul li:hover
+{
+	color:#F00;
+	background-color:#0F0;
+	transition:all 1s ease-in;
+}
+.Third
+{
+	float:left;
+	text-align:center;
+	background-color:#00F;
+	width:100%;
+	padding:10px;
+	margin-left:5px;
+}
+.Li
+{
+	width:100%;
+}
+.Li img
+{
+	width:100%;
+	height:500px;
+}
+.Third h1
+{
+	color:#C33;
+}
+.Four 
+{
+	float:left;
+	margin:5px;
+}
+.Four img
+{
+	
+	width:300px;
+	height:100px;
+	text-align:right;
+	
+}
+.price
+{
+	
+}
+.Five
+{
+	float:left;
+	width:100%;
+	padding-left:5px;
+	
+}
+.Five h1
+{
+	background-color:#00F;
+	color:#C33;
+	text-align:center;
+	
+}
+.Five img
+{
+	float:left;
+	width:300px;
+	height:300px;
+}
+.Seve
+{
+	color:#390;
+	padding-top:25px;
+	padding-right:20px;
+	text-align:justify;
+	transform:translateX(15px);
+}
+.Six 
+{
+	background-color:#000;
+	color:#FF0;
+	text-align:center;
+	width:100%;
+}

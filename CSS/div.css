@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	padding:0%;
+	margin:0%;
+}
+.row
+{
+	margin:5%;
+	margin-left:8%;
+}
+.one
+{
+	background-color:#eee;
+	width:30%;
+	height:500px;
+	float:left;
+	margin-left:1%;
+
+}
+.one h1
+{
+	color:#FFF;
+	background-color:#2BBAFF;
+	width:87%;
+	height:150px;
+	font-size:50px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	padding-left:13%;	
+	
+}
+.one p
+{
+	font-size:16px;
+	padding-left:55px;
+	text-align:justify;
+}
+.one h2
+{
+	padding-left:55px;
+	padding-top:30px;
+}
+.more
+{
+	background-color:#2BBAFF;
+	margin-left:40%;
+	border-top-left-radius:8px;
+	border-bottom-left-radius:8px;
+	padding:10px;
+}
+.more1
+{
+	background-color:#F06;
+	margin-left:40%;
+	border-top-left-radius:8px;
+	border-bottom-left-radius:8px;
+	padding:10px;
+}
+.more2
+{
+	background-color:#FF0;
+	margin-left:40%;
+	border-top-left-radius:8px;
+	border-bottom-left-radius:8px;
+	padding:10px;
+}
+.m
+{
+	margin-left:-6px;
+	color:#FFF;
+	background-color:#000;
+	padding:10px;
+	border-radius:8px;
+}
+.m1
+{
+	margin-left:-6px;
+	color:#FFF;
+	background-color:#000;
+	padding:10px;
+	border-radius:8px;
+}
+.m2
+{
+	margin-left:-6px;
+	color:#FFF;
+	background-color:#000;
+	padding:10px;
+	border-radius:8px;
+}
+.two
+{
+	background-color:#eee;
+	width:30%;
+	height:500px;
+	float:left;
+	margin-left:1%;
+}
+.two h1
+{
+	color:#FFF;
+	background-color:#F06;
+	width:87%;
+	height:150px;
+	font-size:50px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	padding-left:13%;
+}
+.two p
+{
+	font-size:16px;
+	padding-left:55px;
+	text-align:justify;
+}
+.two h2
+{
+	padding-left:55px;
+	padding-top:30px;
+}
+
+.three
+{
+	background-color:#eee;
+	width:30%;
+	height:500px;
+	float:left;
+	margin-left:1%;
+}
+.three h1
+{
+	color:#FFF;
+	background-color:#FF0;
+	width:87%;
+	height:150px;
+	font-size:50px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	padding-left:13%;
+}
+.three p
+{
+	font-size:16px;
+	padding-left:55px;
+	text-align:justify;
+}
+.three h2
+{
+	padding-left:55px;
+	padding-top:30px;
+}
+

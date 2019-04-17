@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	padding:0px;
+	margin:0px;
+}
+h1
+{
+	text-align:center;
+}
+div
+{
+	width:100%;
+}
+.create
+{
+	width:46%;
+	float:left;
+	margin:10%;
+}
+.create input
+{
+	border:none;
+	width:50%;
+	height:10%;
+	padding-left:10px;
+	margin:20px;
+}
+.destroy
+{
+	width:46%;
+	float:right;
+}
+.destroy input
+{
+	border:none;
+	width:50%;
+	height:10%;
+	padding-left:10px;
+}
+	

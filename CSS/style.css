@@ -1,0 +1,15 @@
+*
+{
+	padding: 0px; 
+}
+.first{
+	padding: 3px;
+	
+	float: left;
+
+}
+.first img{
+	background-color:"red";
+	width: 300px;
+	height: 100px; 
+}

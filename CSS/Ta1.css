@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	padding:0px;
+	margin:0px;
+}
+body
+{
+	background-color:#666;
+	background-image:url(../../Photos/Manali/11.jpg);
+}
+h1
+{
+	text-align:center;
+	color:#00F;
+}
+input
+{
+	padding:4px;
+	padding-left:3px;
+}
+input:focus
+{
+	background-color:#FC9;
+}
+.First
+{
+	margin-top:200px;
+}
+.test
+{
+	margin-left:500px;
+	margin-top:20px;
+	/*border-left:solid 1px #000;
+	border-right:solid 1px #000;
+	border-top:solid 1px #000;
+	border-bottom:solid 1px #000;*/
+}
+.User
+{
+	padding-left:55px;
+}
+.Emai
+{
+	padding-left:81px;
+	margin-top:30px;
+}
+.Pwd
+{
+	padding-left:59px;
+}
+.Ge
+{
+	padding-left:15px;
+}
+.college
+{
+	padding-left:15px;
+}
+.ch
+{
+	padding-left:15px;
+}
+.add
+{
+	padding-left:15px;
+}
+.sb
+{
+	padding-left:550px;
+}
+.txt
+{
+	border:none;
+	border-bottom:solid 2px #00C;
+}
+.em
+{
+	border:none;
+	border-bottom:solid 2px #00C;
+}
+.txtp
+{
+	border:none;
+	border-bottom:solid 2px #00C;
+}
+.txtc
+{
+	border:none;
+	border-bottom:solid 2px #00C;
+}
